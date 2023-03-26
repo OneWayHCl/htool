@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HTool_Tests' do
+  pod 'HTool', :path => '../'
+  
+  
+end

@@ -1,0 +1,22 @@
+{
+  "name": "HTool",
+  "version": "0.1.0",
+  "summary": "A short description of HTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CongL.Hu/HTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CongL.Hu": "1580682761@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CongL.Hu/HTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HTool/Classes/**/*"
+}
